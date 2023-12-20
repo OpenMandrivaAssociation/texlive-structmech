@@ -1,6 +1,6 @@
 Name:		texlive-structmech
-Version:	58985
-Release:	2
+Version:	66724
+Release:	1
 Summary:	A TikZ command set for structural mechanics drawings
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/structmech
