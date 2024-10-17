@@ -3,7 +3,7 @@ Version:	66724
 Release:	1
 Summary:	A TikZ command set for structural mechanics drawings
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/structmech
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/structmech
 License:	gpl3+
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/structmech.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/structmech.doc.r%{version}.tar.xz
